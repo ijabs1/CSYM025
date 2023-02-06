@@ -1,0 +1,11 @@
+-Create a branch called dev
+-Make the dev branch your default branch
+-Create a repository called javaProject
+-Push your java codes into it(i mean your dev branch)
+-Your commit message should be "Pushed completed JavaFx project"
+-Create a Read.md file containing what you did in the project
+-Create another branch called ft-addedNoted
+-Make a pull request to the dev branch
+-Check if there are conflict
+
+// prettier linting tool

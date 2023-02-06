@@ -1,0 +1,12 @@
+Invoice Number :7335#
+Invoice Date :21-01-2023
+Bill to :
+Customer Name :Femi
+Customer Phone :2838332
+Customer Email :ffemi@live.co.uk
+Rented Data :21/01/2022   End Of Tenancy :20/02/2023
+Property Description :Semi-detached
+Agent Fee :210.0
+Deposit Fee :6300.0
+Damages :200.0
+Total :6710.0

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="466.0" prefWidth="715.0" style="-fx-background-color: #34b7eb;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.csym025.HomeController">
+   <children>
+      <Label fx:id="textToChange" layoutX="138.0" layoutY="199.0" prefHeight="44.0" prefWidth="433.0" text="Home Management System" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Label>
+      <AnchorPane layoutX="1.0" prefHeight="51.0" prefWidth="713.0" style="-fx-background-color: #ffff;">
+         <children>
+            <Label fx:id="customer" layoutX="106.0" layoutY="17.0" text="Customers">
+               <font>
+                  <Font size="19.0" />
+               </font></Label>
+            <Label fx:id="property" layoutX="331.0" layoutY="17.0" text="Property">
+               <font>
+                  <Font size="19.0" />
+               </font></Label>
+            <Label fx:id="rentScene" layoutX="570.0" layoutY="17.0" text="Rent">
+               <font>
+                  <Font size="19.0" />
+               </font></Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
